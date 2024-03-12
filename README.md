@@ -50,8 +50,8 @@ The base URL for all endpoints is: `https://newb-log-backend.vercel.app/api/v1`
    - Body:
      ```json
       {
-    "post": "post_id_here",
-    "like": "like_id_here"
+       "post": "post_id_here",
+       "like": "like_id_here"
      }
 
      ```
