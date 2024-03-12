@@ -1,4 +1,4 @@
-# Newb Log Backend API
+# Newb BLog Backend API
 
 This repository contains the backend code for the Newb Log application.
 
