@@ -22,5 +22,5 @@ app.listen(PORT, () => {
 })
 
 app.get("/", (req,res) => {
-    res.send(`<h1>This is my homePage baby</h1>`)
+    res.send(`<h1>This is my homePage</h1>`)
 })
