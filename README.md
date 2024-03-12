@@ -1,4 +1,4 @@
-# Newb Log Backend API
+# Newb BLog Backend API
 
 This repository contains the backend code for the Newb Log application.
 
@@ -49,9 +49,15 @@ The base URL for all endpoints is: `https://newb-log-backend.vercel.app/api/v1`
    - Method: `POST`
    - Body:
      ```json
+<<<<<<< HEAD
      {
     "post": "post_id_here",
     "like": "like_id_here"
+=======
+      {
+       "post": "post_id_here",
+       "like": "like_id_here"
+>>>>>>> 81f1b4fbc51efaad973fad7200594898fff9bca0
      }
 
      ```
