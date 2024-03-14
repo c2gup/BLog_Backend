@@ -1,4 +1,4 @@
-# Newb BLog Backend API
+# New BLog Backend API
 
 ![Screenshot (92)](https://github.com/c2gup/BLog_Backend/assets/116897217/ba5f0a60-ca3d-45bb-9d14-06a305e00dd4)
 
